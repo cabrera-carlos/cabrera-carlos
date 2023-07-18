@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Carlos!
+
+- 🔭 Senior Software Developer.
+- 🌱 I’m currently learning Front-end Development.
+- ✨ Making magic happen with ReactJS.
 
 <!--
 **cabrera-carlos/cabrera-carlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
